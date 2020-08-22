@@ -1,2 +1,2 @@
-# Broodwar-Community-Resources-
+# Broodwar Community Resources
 Community resources 
