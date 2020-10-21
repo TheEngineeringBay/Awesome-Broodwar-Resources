@@ -70,6 +70,8 @@
 - [IEEE CoG](https://cilab.gist.ac.kr/sc_competition/): The IEEE Conference on Games
 - [SSCAIT](https://sscaitournament.com/): Student StarCraft AI Tournament, AI community open to more than just students.
   - [SSCAIT Discord](https://discord.gg/quCtpKe)
+- [AIST](https://sites.google.com/view/aistarcrafttournament/aist) A human style structure (double elim BO3 / BO5) annual AI tournament
+
 
 ### Bots
 - [AIUR](https://github.com/richoux/AIUR): Artificial Intelligence Using Randomness. An older C++ bot that plays Protoss.
