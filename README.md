@@ -26,6 +26,8 @@
 - [ScmDraft 2 - Stormcoast Fortress](http://www.stormcoast-fortress.net/): ScmDraft 2 homepage with some modding tools and resources.
  
 ### Map Triggers (Use Map Settings)
+- [EUD Editor](https://github.com/Buizz/EUDEditor): A GUI for doing complex actions in triggers that would require the use of EUD (Extended Unit Deaths). Written in VB.
+- [EUD Editor 3](https://github.com/Buizz/EUD-Editor-3): The successor to EUD Editor which also works for Starcraft: Remastered. Written in VB.NET.
 - [euddraft](https://github.com/phu54321/euddraft): Tool/frontend for eudplib used to compile the language into a map
   - [eudplib](https://github.com/phu54321/eudplib): A programming language library based on EUD (Extended Unit Death) triggers, similar to Python syntax
 - [LangUMS](https://github.com/LangUMS/langums): Programming language and compiler for StarCraft: Brood War triggers, similar to C syntax
