@@ -6,6 +6,22 @@
 ![](https://badgen.net/github/last-commit/TheEngineeringBay/Awesome-Broodwar-Resources)
 </div>
 
+## Table of Contents
+- [Uncategorized](#uncategorized)
+- [Replays](#replays)
+- [Mapping and Modding](#mapping-and-modding)
+  * [Map Editors](#map-editors)
+  * [Map Triggers (Use Map Settings)](#map-triggers--use-map-settings-)
+  * [Archive Management](#archive-management)
+- [AI (Artificial Intelligence)](#ai--artificial-intelligence-)
+  * [APIs and Wrappers](#apis-and-wrappers)
+  * [Utility Libraries](#utility-libraries)
+  * [Terrain Analysis](#terrain-analysis)
+  * [Competitions](#competitions)
+  * [Bots](#bots)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Uncategorized
 - [OpenBW](https://github.com/OpenBW/openbw): An open source port of Starcraft: Broodwar 1.16.1 written in C++.
@@ -34,6 +50,7 @@
 - [LIT](http://www.staredit.net/topic/16432/): Lua Interpreted Triggers - Another triggering language based on Lua.
 - [llvm-bw](https://github.com/heinermann/llvm-bw): In progress C++ to Broodwar EUD triggers transpiler.
 - [Oreo Triggers](https://github.com/brandonlilly/oreo-triggers): Oreo is another triggering language that compiles to map triggers, based on PHP.
+- [SC-REPL](https://github.com/mighty1231/screpl): SC-REPL provides command line interface and text UI based application framework on StarCraft I UMS maps, built on [euddraft](https://github.com/armoha/euddraft).
 - [TrigEditPlus](https://github.com/phu54321/TrigEditPlus): A triggering plugin for ScmDraft 2.
 - [YATAPI](https://github.com/sethmachine/yatapi): Yet Another Triggering API - as the name states, based on Python.
 
