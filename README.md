@@ -26,6 +26,7 @@
 ## Uncategorized
 - [OpenBW](https://github.com/OpenBW/openbw): An open source port of Starcraft: Broodwar 1.16.1 written in C++.
   - [Website](http://www.openbw.com/)
+- [mtl](https://github.com/neivv/mtl): A BW plugin written in Rust of as of yet unknown functionality 
 
 ## Replays
 - [BWChart](https://bwchart.wordpress.com/): A Starcraft Broodwar replay analyzer.
@@ -48,7 +49,6 @@
   - [eudplib](https://github.com/phu54321/eudplib): A programming language library based on EUD (Extended Unit Death) triggers, similar to Python syntax
 - [LangUMS](https://github.com/LangUMS/langums): Programming language and compiler for StarCraft: Brood War triggers, similar to C syntax
 - [LIT](http://www.staredit.net/topic/16432/): Lua Interpreted Triggers - Another triggering language based on Lua.
-- [llvm-bw](https://github.com/heinermann/llvm-bw): In progress C++ to Broodwar EUD triggers transpiler.
 - [Oreo Triggers](https://github.com/brandonlilly/oreo-triggers): Oreo is another triggering language that compiles to map triggers, based on PHP.
 - [SC-REPL](https://github.com/mighty1231/screpl): SC-REPL provides command line interface and text UI based application framework on StarCraft I UMS maps, built on [euddraft](https://github.com/armoha/euddraft).
 - [TrigEditPlus](https://github.com/phu54321/TrigEditPlus): A triggering plugin for ScmDraft 2.
@@ -63,6 +63,8 @@
 ## AI (Artificial Intelligence)
 - [sc-docker](https://github.com/Games-and-Simulations/sc-docker): Starcraft 1.16.1 docker image set up for AI vs AI fights
 - [StarCraft AI Wiki](http://www.starcraftai.com/): A Wiki for all things StarCraft AI.
+- [aise](https://github.com/neivv/aise): A BW aiscript extention plugin written in Rust
+- [ai_debug_1161](https://github.com/neivv/ai_debug_1161): A aiscript debug plugin for BW 1.16.1 via C++ (and a bit of python/shell)
 
 ### APIs and Wrappers
 - [BWAPI](https://github.com/bwapi/bwapi): The BroodWar API, used to create AI that can play Broodwar through C++.
@@ -75,6 +77,8 @@
 - [BWEB](https://github.com/Cmccrave/BWEB): BroodWar Easy Builder is a building placement manager written in C++ that depends on BWEM.
 - [FAP](https://github.com/N00byEdge/FAP): An AI combat simulation library.
 - [ASS](https://github.com/JavaBWAPI/ass): Agent Starcraft Simulator - A Java based combat simulation library.
+- [Animosity](https://github.com/neivv/animosity): An SCR graphics converter writen in Rust 
+- [PyMS](https://github.com/poiuyqwert/PyMS): A Broodwar Modding Suite written in Python
 
 ### Terrain Analysis
 - [BWEM](http://bwem.sourceforge.net/): BroodWar Easy Map - A much faster terrain analyzer than BWTA.
