@@ -27,6 +27,7 @@
 - [OpenBW](https://github.com/OpenBW/openbw): An open source port of Starcraft: Broodwar 1.16.1 written in C++.
   - [Website](http://www.openbw.com/)
 - [mtl](https://github.com/neivv/mtl): A BW plugin written in Rust of as of yet unknown functionality 
+- [ShieldBattery](https://github.com/ShieldBattery/ShieldBattery): A fully functional Broodwar implementation in Javascript
 
 ## Replays
 - [BWChart](https://bwchart.wordpress.com/): A Starcraft Broodwar replay analyzer.
