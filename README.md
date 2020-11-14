@@ -11,26 +11,25 @@
 - [Replays](#replays)
 - [Mapping and Modding](#mapping-and-modding)
   * [Map Editors](#map-editors)
-  * [Map Triggers (Use Map Settings)](#map-triggers--use-map-settings-)
+  * [Map Triggers (Use Map Settings)](#map-triggers-use-map-settings)
   * [Archive Management](#archive-management)
-- [AI (Artificial Intelligence)](#ai--artificial-intelligence-)
+- [AI (Artificial Intelligence)](#ai-artificial-intelligence)
   * [APIs and Wrappers](#apis-and-wrappers)
   * [Utility Libraries](#utility-libraries)
   * [Terrain Analysis](#terrain-analysis)
   * [Competitions](#competitions)
   * [Bots](#bots)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
+  
+<sup><sub>[Generated with markdown-toc](http://ecotrust-canada.github.io/markdown-toc/)
 
 ## Uncategorized
-- [OpenBW](https://github.com/OpenBW/openbw): An open source port of Starcraft: Broodwar 1.16.1 written in C++.
+- [OpenBW](https://github.com/OpenBW/openbw): An open source port of StarCraft: Brood War 1.16.1 written in C++.
   - [Website](http://www.openbw.com/)
-- [mtl](https://github.com/neivv/mtl): A BW plugin written in Rust of as of yet unknown functionality 
-- [ShieldBattery](https://github.com/ShieldBattery/ShieldBattery): A fully functional Broodwar implementation in Javascript
+- [mtl](https://github.com/neivv/mtl): A BW plugin written in Rust of as of yet unknown functionality.
+- [ShieldBattery](https://github.com/ShieldBattery/ShieldBattery): A fully functional Brood War implementation in Javascript.
 
 ## Replays
-- [BWChart](https://bwchart.wordpress.com/): A Starcraft Broodwar replay analyzer.
+- [BWChart](https://bwchart.wordpress.com/): A StarCraft Brood War replay analyzer.
 - [OpenBW Online Replay Viewer](http://www.openbw.com/replay-viewer/): An online replay viewer backed by OpenBW compiled to Javascript.
 - [StarData](https://github.com/TorchCraft/StarData): A 365GB replay dataset for AI training (65646 games).
 
@@ -45,10 +44,10 @@
  
 ### Map Triggers (Use Map Settings)
 - [EUD Editor](https://github.com/Buizz/EUDEditor): A GUI for doing complex actions in triggers that would require the use of EUD (Extended Unit Deaths). Written in VB.
-- [EUD Editor 3](https://github.com/Buizz/EUD-Editor-3): The successor to EUD Editor which also works for Starcraft: Remastered. Written in VB.NET.
-- [euddraft](https://github.com/phu54321/euddraft): Tool/frontend for eudplib used to compile the language into a map
-  - [eudplib](https://github.com/phu54321/eudplib): A programming language library based on EUD (Extended Unit Death) triggers, similar to Python syntax
-- [LangUMS](https://github.com/LangUMS/langums): Programming language and compiler for StarCraft: Brood War triggers, similar to C syntax
+- [EUD Editor 3](https://github.com/Buizz/EUD-Editor-3): The successor to EUD Editor which also works for StarCraft: Remastered. Written in VB.NET.
+- [euddraft](https://github.com/phu54321/euddraft): Tool/frontend for eudplib used to compile the language into a map.
+  - [eudplib](https://github.com/phu54321/eudplib): A programming language library based on EUD (Extended Unit Death) triggers, similar to Python syntax.
+- [LangUMS](https://github.com/LangUMS/langums): Programming language and compiler for StarCraft: Brood War triggers, similar to C syntax.
 - [LIT](http://www.staredit.net/topic/16432/): Lua Interpreted Triggers - Another triggering language based on Lua.
 - [Oreo Triggers](https://github.com/brandonlilly/oreo-triggers): Oreo is another triggering language that compiles to map triggers, based on PHP.
 - [SC-REPL](https://github.com/mighty1231/screpl): SC-REPL provides command line interface and text UI based application framework on StarCraft I UMS maps, built on [euddraft](https://github.com/armoha/euddraft).
@@ -62,37 +61,37 @@
 
 
 ## AI (Artificial Intelligence)
-- [sc-docker](https://github.com/Games-and-Simulations/sc-docker): Starcraft 1.16.1 docker image set up for AI vs AI fights
+- [sc-docker](https://github.com/Games-and-Simulations/sc-docker): StarCraft 1.16.1 docker image set up for AI vs AI fights.
 - [StarCraft AI Wiki](http://www.starcraftai.com/): A Wiki for all things StarCraft AI.
-- [aise](https://github.com/neivv/aise): A BW aiscript extention plugin written in Rust
-- [ai_debug_1161](https://github.com/neivv/ai_debug_1161): A aiscript debug plugin for BW 1.16.1 via C++ (and a bit of python/shell)
+- [aise](https://github.com/neivv/aise): A BW aiscript extension plugin written in Rust.
+- [ai_debug_1161](https://github.com/neivv/ai_debug_1161): A aiscript debug plugin for BW 1.16.1 via C++ (and a bit of python/shell).
 
 ### APIs and Wrappers
-- [BWAPI](https://github.com/bwapi/bwapi): The BroodWar API, used to create AI that can play Broodwar through C++.
+- [BWAPI](https://github.com/bwapi/bwapi): The BroodWar API, used to create AI that can play Brood War through C++.
 - [BWMirror](https://github.com/vjurenka/BWMirror): A Java wrapper for BWAPI.
 - [JBWAPI](https://github.com/JavaBWAPI/JBWAPI): A more up-to-date Java wrapper for BWAPI.
-- [TorchCraft](https://github.com/TorchCraft/TorchCraft): A bridge between [Torch](https://en.wikipedia.org/wiki/Torch_%28machine_learning%29) and Starcraft.
+- [TorchCraft](https://github.com/TorchCraft/TorchCraft): A bridge between [Torch](https://en.wikipedia.org/wiki/Torch_%28machine_learning%29) and StarCraft.
 - [TorchCraftAI](https://github.com/TorchCraft/TorchCraftAI): An AI platform for Torchcraft.
 
 ### Utility Libraries
 - [BWEB](https://github.com/Cmccrave/BWEB): BroodWar Easy Builder is a building placement manager written in C++ that depends on BWEM.
 - [FAP](https://github.com/N00byEdge/FAP): An AI combat simulation library.
-- [ASS](https://github.com/JavaBWAPI/ass): Agent Starcraft Simulator - A Java based combat simulation library.
-- [Animosity](https://github.com/neivv/animosity): An SCR graphics converter writen in Rust 
-- [PyMS](https://github.com/poiuyqwert/PyMS): A Broodwar Modding Suite written in Python
+- [ASS](https://github.com/JavaBWAPI/ass): Agent StarCraft Simulator - A Java based combat simulation library.
+- [Animosity](https://github.com/neivv/animosity): An SCR graphics converter writen in Rust.
+- [PyMS](https://github.com/poiuyqwert/PyMS): A Brood War Modding Suite written in Python.
 
 ### Terrain Analysis
 - [BWEM](http://bwem.sourceforge.net/): BroodWar Easy Map - A much faster terrain analyzer than BWTA.
 - [BWTA](https://code.google.com/archive/p/bwta/): BroodWar Terrain Analyzer written in C++, depends on BWAPI and some geometry libraries. (obsolete)
 - [BWTA2](https://bitbucket.org/auriarte/bwta2): The successor to BWTA.
-- [StarDraft](https://github.com/davechurchill/stardraft): A C++ Starcraft map visualizer.
+- [StarDraft](https://github.com/davechurchill/stardraft): A C++ StarCraft map visualizer.
 
 ### Competitions
-- [AIIDE](http://www.starcraftaicompetition.com/): AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment
-- [IEEE CoG](https://cilab.gist.ac.kr/sc_competition/): The IEEE Conference on Games
+- [AIIDE](http://www.starcraftaicompetition.com/): AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment.
+- [IEEE CoG](https://cilab.gist.ac.kr/sc_competition/): The IEEE Conference on Games.
 - [SSCAIT](https://sscaitournament.com/): Student StarCraft AI Tournament, AI community open to more than just students.
   - [SSCAIT Discord](https://discord.gg/quCtpKe)
-- [AIST](https://sites.google.com/view/aistarcrafttournament/aist) A human style structure (double elim BO3 / BO5) annual AI tournament
+- [AIST](https://sites.google.com/view/aistarcrafttournament/aist) A human style structure (double elimination BO3 / BO5) annual AI tournament.
 
 
 ### Bots
