@@ -34,6 +34,7 @@
 - [StarData](https://github.com/TorchCraft/StarData): A 365GB replay dataset for AI training (65646 games).
 
 ## Mapping and Modding
+- [ShadowFlare's Realm](https://sfsrealm.hopto.org/): Various modding tools and libraries, including MPQ, GRP, and more. Some include source code.
 - [Staredit.net](http://www.staredit.net/): Mapping and modding community forum and map/mod/tool hosting.
   - [Staredit.net Discord](https://discord.gg/rKs3NDc)
 
