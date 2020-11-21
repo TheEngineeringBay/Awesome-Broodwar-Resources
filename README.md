@@ -26,7 +26,7 @@
 - [OpenBW](https://github.com/OpenBW/openbw): An open source port of StarCraft: Brood War 1.16.1 written in C++.
   - [Website](http://www.openbw.com/)
 - [mtl](https://github.com/neivv/mtl): A BW plugin written in Rust of as of yet unknown functionality.
-- [ShieldBattery](https://github.com/ShieldBattery/ShieldBattery): A fully functional Brood War implementation in Javascript.
+- [ShieldBattery](https://github.com/ShieldBattery/ShieldBattery): ShieldBattery is a community-run platform for competitive StarCraft: Remastered, featuring ranked matchmaking, full-featured chat, centralized map hosting, and more!
 
 ## Replays
 - [BWChart](https://bwchart.wordpress.com/): A StarCraft Brood War replay analyzer.
