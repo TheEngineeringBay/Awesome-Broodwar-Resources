@@ -38,7 +38,7 @@
 - [Staredit.net](http://www.staredit.net/): Mapping and modding community forum and map/mod/tool hosting.
   - [Staredit.net Discord](https://discord.gg/rKs3NDc)
 - [SirStanels Build order builder](https://sirstanel.github.io/) A utility utilizing freya spirits json build order builder to create custom map files for build order practice
-- [UEDAIP](http://www.staredit.net/topic/17383/): A project to rebuild and extend the original starcraft campaign
+- [UEDAIP](http://www.staredit.net/topic/17383/):  Major overhaul of the original Starcraft campaigns with gameplay improvements and new story elements
 
 ### Map Editors
 - [Chkdraft](https://github.com/jjf28/Chkdraft): A C++ map editor based on ScmDraft 2 which contains distinct modules for map and chk manipulation that can be utilized by other projects.
