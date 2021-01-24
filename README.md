@@ -32,6 +32,7 @@
 - [BWChart](https://bwchart.wordpress.com/): A StarCraft Brood War replay analyzer.
 - [OpenBW Online Replay Viewer](http://www.openbw.com/replay-viewer/): An online replay viewer backed by OpenBW compiled to Javascript.
 - [StarData](https://github.com/TorchCraft/StarData): A 365GB replay dataset for AI training (65646 games).
+- [BW-Replay-Utility](https://github.com/janev94/BW-Replay-Utilities): A project from Y2Kid/janev94 to both extract replay stats and describe the raw replay file format
 
 ## Mapping and Modding
 - [ShadowFlare's Realm](https://sfsrealm.hopto.org/): Various modding tools and libraries, including MPQ, GRP, and more. Some include source code.
