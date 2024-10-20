@@ -1,14 +1,12 @@
-<div style="text-align: center">
+<div style="align: center">
   <h1>
     Awesome Broodwar Resources
   </h1>
 </div>
-<div style="text-align: center; height: 5px;">
+<div style="align: center; height: 5px;">
 
 ![](https://badgen.net/github/last-commit/TheEngineeringBay/Awesome-Broodwar-Resources)
 </div>
-
----
 
 ## Table of Contents
 - [AI (Artificial Intelligence)](#ai-artificial-intelligence)
