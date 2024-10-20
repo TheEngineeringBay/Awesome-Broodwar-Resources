@@ -1,9 +1,9 @@
-<div style="align: center">
+<div align="center">
   <h1>
     Awesome Broodwar Resources
   </h1>
 </div>
-<div style="align: center; height: 5px;">
+<div align="center" style="height: 5px;">
 
 ![](https://badgen.net/github/last-commit/TheEngineeringBay/Awesome-Broodwar-Resources)
 </div>
