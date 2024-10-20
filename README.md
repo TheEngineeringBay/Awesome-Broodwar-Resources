@@ -1,29 +1,32 @@
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
+<div style="text-align: center">
   <h1>
     Awesome Broodwar Resources
   </h1>
 </div>
-<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; height: 0;">
+<div style="text-align: center; height: 5px;">
 
 ![](https://badgen.net/github/last-commit/TheEngineeringBay/Awesome-Broodwar-Resources)
 </div>
 
+---
 
 ## Table of Contents
-- [Uncategorized](#uncategorized)
-- [Replays](#replays)
-- [Mapping and Modding](#mapping-and-modding)
-  * [Map Editors](#map-editors)
-  * [Map Triggers (Use Map Settings)](#map-triggers-use-map-settings)
-  * [Archive Management](#archive-management)
 - [AI (Artificial Intelligence)](#ai-artificial-intelligence)
   * [APIs and Wrappers](#apis-and-wrappers)
-  * [Utility Libraries](#utility-libraries)
-  * [Terrain Analysis](#terrain-analysis)
-  * [Competitions](#competitions)
   * [Bots](#bots)
+  * [Terrain Analysis](#terrain-analysis)
+  * [Utility Libraries](#utility-libraries)
+- [Competitions](#competitions)
+- [Mapping and Modding](#mapping-and-modding)
+  * [Archive Management](#archive-management)
+  * [Map Editors](#map-editors)
+  * [Map Triggers (Use Map Settings)](#map-triggers-use-map-settings)
+- [Replays](#replays)
+- [Uncategorized](#uncategorized)
   
 <sup><sub>[Generated with markdown-toc](http://ecotrust-canada.github.io/markdown-toc/)
+
+---
 
 ## AI (Artificial Intelligence)
 - [ai_debug_1161](https://github.com/neivv/ai_debug_1161): A aiscript debug plugin for BW 1.16.1 via C++ (and a bit of python/shell).
