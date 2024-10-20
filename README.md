@@ -1,10 +1,13 @@
-<div align="center">
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center;">
   <h1>
     Awesome Broodwar Resources
   </h1>
+</div>
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: center; height: 0;">
 
 ![](https://badgen.net/github/last-commit/TheEngineeringBay/Awesome-Broodwar-Resources)
 </div>
+
 
 ## Table of Contents
 - [Uncategorized](#uncategorized)
@@ -25,14 +28,17 @@
 ## Uncategorized
 - [OpenBW](https://github.com/OpenBW/openbw): An open source port of StarCraft: Brood War 1.16.1 written in C++.
   - [Website](http://www.openbw.com/)
-- [mtl](https://github.com/neivv/mtl): A BW plugin written in Rust of as of yet unknown functionality.
+- [mtl](https://github.com/neivv/mtl): A BW plugin written in Rust.
 - [ShieldBattery](https://github.com/ShieldBattery/ShieldBattery): ShieldBattery is a community-run platform for competitive StarCraft: Remastered, featuring ranked matchmaking, full-featured chat, centralized map hosting, and more!
+  - [Website](https://shieldbattery.net/)
 
 ## Replays
 - [BWChart](https://bwchart.wordpress.com/): A StarCraft Brood War replay analyzer.
-- [OpenBW Online Replay Viewer](http://www.openbw.com/replay-viewer/): An online replay viewer backed by OpenBW compiled to Javascript.
-- [StarData](https://github.com/TorchCraft/StarData): A 365GB replay dataset for AI training (65646 games).
 - [BW-Replay-Utility](https://github.com/janev94/BW-Replay-Utilities): A project from Y2Kid/janev94 to both extract replay stats and describe the raw replay file format
+- [OpenBW Online Replay Viewer](http://www.openbw.com/replay-viewer/): An online replay viewer backed by OpenBW compiled to Javascript.
+- [RepMastered](repmastered.icza.net): A game, event, player and map database, replay sharing and analyzer site. It handles both "modern" (starting from 1.18) and "legacy" (pre 1.18) replays.
+- [SCRChart](https://www.scrchart.com/): A spiritual successor to BWChart. Only analyzes and organizes replays.
+- [StarData](https://github.com/TorchCraft/StarData): A 365GB replay dataset for AI training (65646 games).
 
 ## Mapping and Modding
 - [ShadowFlare's Realm](https://sfsrealm.hopto.org/): Various modding tools and libraries, including MPQ, GRP, and more. Some include source code.
@@ -73,6 +79,7 @@
 ### APIs and Wrappers
 - [BWAPI](https://github.com/bwapi/bwapi): The BroodWar API, used to create AI that can play Brood War through C++.
 - [BWMirror](https://github.com/vjurenka/BWMirror): A Java wrapper for BWAPI.
+- [BW Web API](https://github.com/evanandrewrose/bw-web-api) A Typescript wrapper of Brood War Remastered API.
 - [JBWAPI](https://github.com/JavaBWAPI/JBWAPI): A more up-to-date Java wrapper for BWAPI.
 - [TorchCraft](https://github.com/TorchCraft/TorchCraft): A bridge between [Torch](https://en.wikipedia.org/wiki/Torch_%28machine_learning%29) and StarCraft.
 - [TorchCraftAI](https://github.com/TorchCraft/TorchCraftAI): An AI platform for Torchcraft.
